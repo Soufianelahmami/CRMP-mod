@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"CRMP (Crime Roleplay Multiplayer) is a popular modification for the video game Grand Theft Auto: San Andreas. The mod allows players to engage in detailed and immersive roleplay scenarios within the game's open-world environment.","photo":"https://iili.io/HvcMrsn.jpg"},
+  {"title":"tips pack 2","desc":"Grand Theft Auto: San Andreas has a popular modification called CRMP (Crime Roleplay Multiplayer). Players can participate in intricate and realistic roleplay scenarios in the game's open world thanks to the update.","photo":"https://iili.io/HvcM6fs.jpg"},
+  {"title":"how to use this app 3","desc":"The CRMP mod application is a tool that players can use to connect to CRMP servers and participate in roleplay sessions with other players.","photo":"https://iili.io/HvcMgWX.jpg"},
+  {"title":"advance mod 4","desc":"Players can connect to CRMP servers and take part in roleplaying games with other players by using the CRMP mod program.","photo":"https://iili.io/HvcMUxt.jpg"},
+  {"title":"helper pack 5","desc":" The application is available for download on the CRMP website and is compatible with both the Steam and retail versions of GTA: San Andreas.","photo":"https://iili.io/HvcMP0G.jpg"},
+  {"title":"advice mod 6","desc":"Both the retail and Steam editions of GTA: San Andreas are compatible with the application, which can be downloaded from the CRMP website.","photo":"https://iili.io/HvcMLJ4.jpg"},
+  {"title":"tips pack 7","desc":"One of the key features of the CRMP mod application is the ability to create and customize your character. Players can choose their character's appearance, clothing, and even backstory to make their roleplaying experience more engaging.","photo":"https://iili.io/HvcMigf.jpg"},
+  {"title":"advance mod 8","desc":"Character creation and customization are two important aspects of the CRMP mod program. In order to enhance the roleplaying experience, players can customize their character's appearance, attire, and even backstory.","photo":"https://iili.io/HvcMQ5l.jpg"}
 
    ]
  
